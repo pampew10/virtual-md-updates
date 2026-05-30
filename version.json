@@ -1,6 +1,1 @@
-{
-  "version": "1.0.0",
-  "download_url": "https://github.com/pampew10/virtual-md-updates/releases/download/v1.0.0/Virtual-MD-1.0.0-macOS.zip",
-  "notes": "Virtual MD v1.0.0 is now available.",
-  "mandatory": false
-}
+{"version": "1.0.0", "download_url": "https://github.com/pampew10/virtual-md-updates/releases/download/v1.0.0/Virtual-MD-1.0.0-macOS.zip", "notes": "Virtual MD v1.0.0 is now available.", "mandatory": false}
