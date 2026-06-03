@@ -1,6 +1,6 @@
 {
-  "version": "1.1.7",
-  "download_url": "https://github.com/pampew10/virtual-md-updates/releases/download/v1.1.7/Virtual-MD-1.1.7-macOS.zip",
-  "notes": "Virtual MD v1.1.7 \u2014 license management. New '\ud83d\udd11 LICENSE' button in the top bar opens a license management screen where you can view your current key/instance or deactivate this machine to free up an activation slot. Also: the LicenseScreen input now auto-normalizes pasted or typed keys (uppercase, dashes re-inserted, non-hex stripped) and supports \u2318V paste.",
+  "version": "1.1.8",
+  "download_url": "https://github.com/pampew10/virtual-md-updates/releases/download/v1.1.8/Virtual-MD-1.1.8-macOS.zip",
+  "notes": "Virtual MD v1.1.8 \u2014 pad is now optional. If you don't have a MIDI pad/trigger device, you can pick 'no pad' under the PAD column on the device setup screen and use the on-screen C-B row to set the key instead. The PIANO device is still required.",
   "mandatory": false
 }
