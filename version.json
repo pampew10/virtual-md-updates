@@ -1,6 +1,6 @@
 {
-  "version": "1.2.3",
-  "download_url": "https://github.com/pampew10/virtual-md-updates/releases/download/v1.2.3/Virtual-MD-1.2.3-macOS.zip",
-  "notes": "Virtual MD v1.2.3 \u2014 new DMG installer. First-time users should download Virtual-MD.dmg and drag Virtual MD.app into the Applications folder as shown. Existing installations can ignore the DMG and use the in-app updater (or download the .zip). Also: pad is now optional on the device setup screen \u2014 pick 'no pad' if you don't have a trigger device and use the C-B row to set the key.",
+  "version": "1.2.4",
+  "download_url": "https://github.com/pampew10/virtual-md-updates/releases/download/v1.2.4/Virtual-MD-1.2.4-macOS.zip",
+  "notes": "Virtual MD v1.2.4 \u2014 new DMG installer. First-time users should download Virtual-MD.dmg and drag Virtual MD.app into the Applications folder as shown. Existing installations can ignore the DMG and use the in-app updater (or download the .zip). Also: pad is now optional on the device setup screen \u2014 pick 'no pad' if you don't have a trigger device and use the C-B row to set the key.",
   "mandatory": false
 }
