@@ -1,6 +1,6 @@
 {
-  "version": "1.1.6",
-  "download_url": "https://github.com/pampew10/virtual-md-updates/releases/download/v1.1.6/Virtual-MD-1.1.6-macOS.zip",
-  "notes": "Virtual MD v1.1.6 \u2014 rebrand. The LicenseScreen purchase link now points to maddoxaudio.lemonsqueezy.com (was altaraudio), and the macOS bundle identifier is now com.maddoxaudio.virtualmd. No functionality changes.",
+  "version": "1.1.7",
+  "download_url": "https://github.com/pampew10/virtual-md-updates/releases/download/v1.1.7/Virtual-MD-1.1.7-macOS.zip",
+  "notes": "Virtual MD v1.1.7 \u2014 license management. New '\ud83d\udd11 LICENSE' button in the top bar opens a license management screen where you can view your current key/instance or deactivate this machine to free up an activation slot. Also: the LicenseScreen input now auto-normalizes pasted or typed keys (uppercase, dashes re-inserted, non-hex stripped) and supports \u2318V paste.",
   "mandatory": false
 }
