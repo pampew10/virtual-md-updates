@@ -1,6 +1,6 @@
 {
-  "version": "1.1.8",
-  "download_url": "https://github.com/pampew10/virtual-md-updates/releases/download/v1.1.8/Virtual-MD-1.1.8-macOS.zip",
-  "notes": "Virtual MD v1.1.8 \u2014 pad is now optional. If you don't have a MIDI pad/trigger device, you can pick 'no pad' under the PAD column on the device setup screen and use the on-screen C-B row to set the key instead. The PIANO device is still required.",
+  "version": "1.1.9",
+  "download_url": "https://github.com/pampew10/virtual-md-updates/releases/download/untagged-fe9a050dd12d5ce6edad/Virtual-MD-1.1.9-macOS.zip",
+  "notes": "Virtual MD v1.1.9 \u2014 new DMG installer. First-time users should download Virtual-MD.dmg and drag Virtual MD.app into the Applications folder as shown. Existing installations can ignore the DMG and use the in-app updater (or download the .zip). Also: pad is now optional on the device setup screen \u2014 pick 'no pad' if you don't have a trigger device and use the C-B row to set the key.",
   "mandatory": false
 }
